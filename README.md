@@ -1,4 +1,4 @@
-# InstagramUnfollowers - Easily find out who doesn't follow you back on Instagram
+# InstagramNotFollowers - Easily find out who doesn't follow you back on Instagram
 
 --> INTRODUCTION
 
