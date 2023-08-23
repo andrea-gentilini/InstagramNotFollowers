@@ -1,6 +1,6 @@
-# InstagramNotFollowers - Easily find out who doesn't follow you back on Instagram
+# InstagramUnFollowers - easily find out who doesn't follow you back on Instagram
 
---> INTRODUCTION
+## INTRODUCTION
 
 This tool enables you to easily verify if people follow you on Instagram, providing a simple and highly effective method that is completely legal, utilizing the official data download provided by Instagram. Refer to the conclusions for a comprehensive understanding of this project.
 
@@ -12,7 +12,7 @@ Now, please follow these steps:
 
 -------------------------------------------
 
---> HOW TO
+## HOW TO
 
 i) DOWNLOAD YOUR INSTAGRAM FOLLOWERS/FOLLOWING INFORMATION:
 
@@ -51,7 +51,7 @@ iii) RUN THE CODE AND ENJOY:
 This should provide a comprehensive understanding of how to use your tool and its features.
 
 -----------------------------------------------------------
---> CONCLUSION
+## CONCLUSION
 
 Hopefully, you've found this code to be beneficial. I chose to develop this project because while there are numerous apps available on popular stores that promise similar information, they often come with critical issues such as profile suspension or excessive advertisements. In contrast, this solution offers a straightforward and effective method to achieve the desired results (something I find particularly appealing). Importantly, it carries no risks of Instagram bans or suspensions, as the collected data is both personal and obtained legally.
 
