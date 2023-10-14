@@ -124,8 +124,8 @@ def load_plot_followers_variation():
     # Create the plot
     plt.figure()
     plt.plot(xs, ys, marker='o', linestyle='-', color='b')
-    plt.xlabel('X-axis')
-    plt.ylabel('Y-axis')
+    plt.xlabel('Time')
+    plt.ylabel('Number of followers')
     plt.title('Plot of Data')
     plt.grid(True)
     plt.show()
@@ -133,7 +133,7 @@ def load_plot_followers_variation():
 
 
 if __name__ == '__main__':
-    username = input('inserisci username da analizzare: ')
+    username = input('please input the username you want to analyze: ')
     result = following_but_not_followers(username)
     var = input('Do you also want to know the variation of your followers you had in the time? [Y] Yes    [N] No    -> ')
     if var not in {'Y', 'N'}:
