@@ -40,7 +40,7 @@ def days_between_dates(date1, date2):
 
 def str_to_list(date_string):
     # Remove the square brackets and split the string into individual elements
-    date_string = date_string.strip('[]')
+    date_string = date_string.strip('[] ')
     date_elements = date_string.split(',')
     
     # Convert the elements to integers and create the final list
